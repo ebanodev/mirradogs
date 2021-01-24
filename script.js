@@ -12,5 +12,6 @@ $(document).ready(function(){
   fade: true,
   cssEase: 'linear',
   pauseOnFocus: false,
+  mobileFirst:true,
   });
 }); 
